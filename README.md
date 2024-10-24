@@ -5,7 +5,9 @@ experience written from the ground up with performance in mind
 
 <p align="center">
   <br />
-  <img src="https://i.imgur.com/yODz0ue.png" alt="Screenshot from cider.sh" width="75%">
+  <a href="https://cider.sh/">
+    <img src="https://i.imgur.com/yODz0ue.png" alt="Screenshot from cider.sh" width="75%">
+  </a>
   <br />
   <small>Screenshot from <a href="https://cider.sh/">cider.sh</a></small>
 </p>
