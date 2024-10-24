@@ -68,7 +68,7 @@ the provided AppImage near your Home Manager configuration. Configure and access
 `cider.nix` through the `programs.cider` attribute.
 
 ```nix
-{ pkgs, config, ... }:
+{ pkgs, ... }:
 {
   programs.cider = {
     enable = true;
